@@ -5,4 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1580-shuffle-the-array](https://github.com/Rabisaali/Leetcode-problems-submission-1-/tree/master/1580-shuffle-the-array) |
+| [3778-transform-array-by-parity](https://github.com/Rabisaali/Leetcode-problems-submission-1-/tree/master/3778-transform-array-by-parity) |
+## Sorting
+|  |
+| ------- |
+| [3778-transform-array-by-parity](https://github.com/Rabisaali/Leetcode-problems-submission-1-/tree/master/3778-transform-array-by-parity) |
+## Counting
+|  |
+| ------- |
+| [3778-transform-array-by-parity](https://github.com/Rabisaali/Leetcode-problems-submission-1-/tree/master/3778-transform-array-by-parity) |
 <!---LeetCode Topics End-->
